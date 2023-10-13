@@ -25,7 +25,7 @@
 
 07. What is the purpose of the `MVC` pattern?
   
-  > | ANSWER HERE |
+  > | So more than one person can work on the same project at the same time and so people can't look at ur code  |
 
 08. What is the job of the `Controller` in the `MVC` Pattern?
   

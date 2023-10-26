@@ -1,6 +1,6 @@
 ## Afternoon Assignment Links
 
 * **[Repo](https://github.com/partypete92/<ASSIGNMENT_REPO>)**
-* **[Repo](https://github.com/partypete92/<ASSIGNMENT_REPO>)**
+* **[Repo](https://github.com/partypete92/Gifted_vue)**
 * **[Repo](https://github.com/partypete92/<ASSIGNMENT_REPO>)**
 * **[Repo](https://github.com/partypete92/<ASSIGNMENT_REPO>)**

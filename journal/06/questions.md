@@ -17,24 +17,24 @@
 
 05. What are ***lifecycle hooks***? What are lifecycle hooks used for?
 
-  > |  |
+  > | everytime the page reloads, any function in the onMounted will run |
 
 06. Which component in Vue does the vue-router use to mount pages onto?
 
-  > | ANSWER HERE |
+  > | onMounted |
 
 07. What is the difference between the `AppState` and the state object within a component?
 
-  > | ANSWER HERE |
+  > | the appstate is between multiple pages and a componenent is within one page |
 
 08. What is the responsibility of `Services` in our Vue projects?
 
-  > | ANSWER HERE |
+  > | to manipulate the data to our localhost  |
 
 09. What are ***props*** and how are they used? Provide an example
 
-  > | ANSWER HERE |
+  > | props are a way to send down parent based information to a child so you can use the information in a component |
 
 10. What is the Vue method used to create watchable objects such as `state` or `AppState`?
 
-  > | ANSWER HERE |
+  > | computed |
